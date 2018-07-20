@@ -1,0 +1,10 @@
+
+ Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
+------+------+---------------------------+---------------------------+---------------------------
+     0      2     7/20/18 8:31:24:434 PDT     7/20/18 8:31:36:348 PDT org.jboss.weld.exceptions.DefinitionException com.ibm.ws.container.service.state.internal.ApplicationStateManager 31
+                                                                            - /home/ibmdemo/Student/workspace/microprofile/target/liberty/wlp/usr/servers/defaultServer/logs/ffdc/ffdc_18.07.20_08.31.24.0.log
+                                                                            - /home/ibmdemo/Student/workspace/microprofile/target/liberty/wlp/usr/servers/defaultServer/logs/ffdc/ffdc_18.07.20_08.31.36.0.log
+     1      2     7/20/18 8:31:24:470 PDT     7/20/18 8:31:36:359 PDT com.ibm.ws.container.service.state.StateChangeException com.ibm.ws.app.manager.module.internal.DeployedAppInfoBase 381
+                                                                            - /home/ibmdemo/Student/workspace/microprofile/target/liberty/wlp/usr/servers/defaultServer/logs/ffdc/ffdc_18.07.20_08.31.24.1.log
+                                                                            - /home/ibmdemo/Student/workspace/microprofile/target/liberty/wlp/usr/servers/defaultServer/logs/ffdc/ffdc_18.07.20_08.31.36.1.log
+------+------+---------------------------+---------------------------+---------------------------

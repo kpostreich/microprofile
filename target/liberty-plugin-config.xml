@@ -14,7 +14,7 @@
         <default.https.port>9443</default.https.port>
     </bootstrapProperties>
     <jvmOptionsFile>/home/ibmdemo/Student/workspace/microprofile/src/main/liberty/config/jvm.options</jvmOptionsFile>
-    <appsDirectory>dropins</appsDirectory>
+    <appsDirectory>apps</appsDirectory>
     <looseApplication>false</looseApplication>
     <stripVersion>false</stripVersion>
     <installAppPackages>project</installAppPackages>

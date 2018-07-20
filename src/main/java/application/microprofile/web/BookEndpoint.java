@@ -51,8 +51,7 @@ public class BookEndpoint  {
     @Produces(MediaType.APPLICATION_JSON)
     public Response getBook(@PathParam("id") String id)  {
         Book book = bookManager.get(id);
-   
-        
+               
         if (testType == "timeout") {
         	
           counterForInvokingBookService++;

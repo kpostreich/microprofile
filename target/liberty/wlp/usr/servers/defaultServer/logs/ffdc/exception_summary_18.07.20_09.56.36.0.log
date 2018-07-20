@@ -1,0 +1,14 @@
+
+ Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
+------+------+---------------------------+---------------------------+---------------------------
+     0      2     7/20/18 9:56:36:100 PDT    7/20/18 10:01:11:784 PDT org.jboss.weld.exceptions.DefinitionException com.ibm.ws.container.service.state.internal.ApplicationStateManager 31
+                                                                            - /home/ibmdemo/Student/workspace/microprofile/target/liberty/wlp/usr/servers/defaultServer/logs/ffdc/ffdc_18.07.20_09.56.36.0.log
+                                                                            - /home/ibmdemo/Student/workspace/microprofile/target/liberty/wlp/usr/servers/defaultServer/logs/ffdc/ffdc_18.07.20_10.01.11.0.log
+     1      2     7/20/18 9:56:36:134 PDT    7/20/18 10:01:11:790 PDT com.ibm.ws.container.service.state.StateChangeException com.ibm.ws.app.manager.module.internal.DeployedAppInfoBase 381
+                                                                            - /home/ibmdemo/Student/workspace/microprofile/target/liberty/wlp/usr/servers/defaultServer/logs/ffdc/ffdc_18.07.20_09.56.36.1.log
+                                                                            - /home/ibmdemo/Student/workspace/microprofile/target/liberty/wlp/usr/servers/defaultServer/logs/ffdc/ffdc_18.07.20_10.01.11.1.log
+     2      2    7/20/18 10:01:41:956 PDT    7/20/18 10:01:41:989 PDT java.lang.IllegalStateException com.ibm.ws.artifact.loose.internal.LooseArtifactNotifier 383
+                                                                            - /home/ibmdemo/Student/workspace/microprofile/target/liberty/wlp/usr/servers/defaultServer/logs/ffdc/ffdc_18.07.20_10.01.41.0.log
+     3      8    7/20/18 10:01:41:982 PDT    7/20/18 10:01:41:990 PDT java.lang.IllegalStateException com.ibm.ws.artifact.loose.internal.LooseArtifactNotifier 371
+                                                                            - /home/ibmdemo/Student/workspace/microprofile/target/liberty/wlp/usr/servers/defaultServer/logs/ffdc/ffdc_18.07.20_10.01.41.1.log
+------+------+---------------------------+---------------------------+---------------------------
